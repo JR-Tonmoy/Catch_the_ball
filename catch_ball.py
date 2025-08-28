@@ -12,7 +12,7 @@ pygame.display.set_caption("Catch the Ball 🎮")
 
 # Colors
 WHITE = (255, 255, 255)
-BLUE = (255, 0, 255)
+BLUE = (0, 0, 255)
 RED = (0, 0, 255)
 BLACK = (0, 0, 0)
 
